@@ -1,0 +1,35 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Análisis Demográfico y Socioeconómico}{5}{}%
+\contentsline {section}{\numberline {1.1}Sección}{5}{}%
+\contentsline {subsection}{\numberline {1.1.1}Sub-sección}{5}{}%
+\contentsline {chapter}{\numberline {2}Plan de Suscripción y capacidad del enlace}{6}{}%
+\contentsline {chapter}{\numberline {3}Análisis comparativo de las tecnologías}{7}{}%
+\contentsline {section}{\numberline {3.1}Red de Núcleo}{7}{}%
+\contentsline {section}{\numberline {3.2}Red de Distribución}{7}{}%
+\contentsline {section}{\numberline {3.3}Red de Acceso}{7}{}%
+\contentsline {chapter}{\numberline {4}Desarrollo técnico y económico de las soluciones}{8}{}%
+\contentsline {section}{\numberline {4.1}Red de Núcleo}{8}{}%
+\contentsline {section}{\numberline {4.2}Red de Distribución}{8}{}%
+\contentsline {section}{\numberline {4.3}Red de Acceso}{8}{}%
+\contentsline {chapter}{\numberline {5}Propuesta tecnológica y técnica}{9}{}%
+\contentsline {section}{\numberline {5.1}Red de Núcleo}{9}{}%
+\contentsline {section}{\numberline {5.2}Red de Distribución}{9}{}%
+\contentsline {section}{\numberline {5.3}Red de Acceso}{9}{}%
+\contentsline {chapter}{\numberline {6}Análisis económico}{10}{}%
+\contentsline {section}{\numberline {6.1}Plan de inversiones}{10}{}%
+\contentsline {section}{\numberline {6.2}CAPEX}{10}{}%
+\contentsline {subsection}{\numberline {6.2.1}Relevamiento y pre-ingeniería}{10}{}%
+\contentsline {subsection}{\numberline {6.2.2}Provisión de equipamiento}{10}{}%
+\contentsline {subsubsection}{Recursos asignados (personal y técnicos)}{10}{}%
+\contentsline {subsection}{\numberline {6.2.3}Emplazamiento e instalación}{10}{}%
+\contentsline {subsubsection}{Detalle de tareas y acciones previstas, dentro del Plan de Inversiones}{10}{}%
+\contentsline {subsection}{\numberline {6.2.4}Puesta en marcha del conjunto}{10}{}%
+\contentsline {subsubsection}{Plazos estimados para su realización (individual, por estapas, global)}{10}{}%
+\contentsline {section}{\numberline {6.3}OPEX}{10}{}%
+\contentsline {subsection}{\numberline {6.3.1}Operación}{10}{}%
+\contentsline {subsubsection}{Encadenado de las tareas y acciones: Definición de Camino Crítico}{10}{}%
+\contentsline {subsection}{\numberline {6.3.2}Plan de Mantenimiento}{10}{}%
+\contentsline {section}{\numberline {6.4}Montos de Inversión}{10}{}%
+\contentsline {chapter}{\numberline {7}Análisis de rentabilidad del proyecto}{11}{}%
+\contentsline {section}{\numberline {7.1}VAN}{11}{}%
+\contentsline {section}{\numberline {7.2}TIR}{11}{}%
