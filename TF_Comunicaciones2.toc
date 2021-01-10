@@ -33,3 +33,4 @@
 \contentsline {chapter}{\numberline {7}Análisis de rentabilidad del proyecto}{11}{}%
 \contentsline {section}{\numberline {7.1}VAN}{11}{}%
 \contentsline {section}{\numberline {7.2}TIR}{11}{}%
+\contentsline {section}{\numberline {7.3}ejemplo}{11}{}%
